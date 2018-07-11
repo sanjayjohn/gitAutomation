@@ -1,0 +1,6 @@
+{
+  "git_url": "Your Git git_url",
+  "local_repository": "gitAutomation",
+  "qtest_api_token": "Your qTest Api token",
+  "qtest_url": "Your qTest Base Url"
+}
